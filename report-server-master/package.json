@@ -1,0 +1,22 @@
+{
+  "name": "report-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "html-pdf": "^2.2.0",
+    "mongoose": "^5.4.11"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
